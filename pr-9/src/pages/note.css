@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hed{
+    background-color: #ffc107;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.keep{
+    justify-content: center;
+}
+
+
+.box input{
+    display: flex;
+    flex-wrap: wrap;
+    border: none;
+    width: 50%;
+    padding: 0 0 0 20px;
+    margin: auto;
+    height: 40px;
+}
+
+.boxs{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cards{
+    height: auto;   
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    width: auto;
+    object-fit: contain;
+    background-color: #ffffff;
+}
+
+.icon{
+    background-color: #ffffff;
+    border: none;
+    font-size: 25px;
+}
+
+.plas{
+    font-weight: 900;
+    color: #ffc107;
+    font-size: 35px;
+}
